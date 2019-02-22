@@ -39,7 +39,7 @@ The following table lists the minimum policies that a user must have to be able 
 | `IBM Log Analysis with LogDNA` | Service role: Reader      | Allows the user to launch the Web UI and view logs in the Web UI.                             |
 {: caption="Table 1. IAM policies" caption-side="top"} 
 
-For more information on how to configure these policies for a user, see [Granting permissions to a user to view logs in LogDNA](/docs/services/Log-Analysis-with-LogDNA/work_iam.html#user_logdna).
+For more information on how to configure these policies for a user, see [Granting permissions to a user to view logs in LogDNA](/docs/services/Log-Analysis-with-LogDNA?topic=LogDNA-work_iam#user_logdna).
 
 
 ## Step 2: Launch the Web UI through the {{site.data.keyword.Bluemix_notm}} UI

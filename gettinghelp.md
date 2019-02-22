@@ -28,4 +28,4 @@ If you have problems or questions when using the IBM Log Analysis with LogDNA, y
 <!--Insert the appropriate Stack Overflow tag for your service for <service_keyword> in URL and text below:  -->
   * If you have technical questions about the IBM Log Analysis with LogDNA service, post your question on [Stack Overflow](http://stackoverflow.com/search?q=log-analysis-with-logdna+ibm-cloud){:new_window} and tag your question with "ibm-cloud" and "log-analysis-with-logdna".
 
-* If you still can't resolve the problem, you can open an IBM support ticket. For information about opening an IBM support ticket, or about support levels and ticket severities, see [Contacting support](/docs/get-support/howtogetsupport.html#getting-customer-support).
+* If you still can't resolve the problem, you can open an IBM support ticket. For information about opening an IBM support ticket, or about support levels and ticket severities, see [Contacting support](/docs/get-support?topic=get-support-getting-customer-support#getting-customer-support).

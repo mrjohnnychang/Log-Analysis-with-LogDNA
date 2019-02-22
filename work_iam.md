@@ -22,7 +22,7 @@ lastupdated: "2019-02-18"
 {{site.data.keyword.iamlong}} (IAM) enables you to securely authenticate users and control access to all cloud resources consistently in the {{site.data.keyword.Bluemix_notm}}. 
 {:shortdesc}
 
-For more information, see [Managing user access with IAM](/docs/services/Log-Analysis-with-LogDNA/iam.html#iam).
+For more information, see [Managing user access with IAM](/docs/services/Log-Analysis-with-LogDNA?topic=LogDNA-iam#iam).
 
 
 ## Granting permissions to a user to become an administrator of the service in the {{site.data.keyword.Bluemix_notm}} account

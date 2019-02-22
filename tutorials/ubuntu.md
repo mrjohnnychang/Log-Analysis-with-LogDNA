@@ -53,7 +53,7 @@ Your {{site.data.keyword.IBM_notm}}ID must have assigned IAM policies for each o
 | IBM Log Analysis with LogDNA service |  Resource group            | Editor  | us-south  | This policy is required to allow the user to provision and administer the IBM Log Analysis with LogDNA service in the Default resource group.   |
 {: caption="Table 1. List of IAM policies required to complete the tutorial" caption-side="top"} 
 
-Install the {{site.data.keyword.Bluemix_notm}} CLI. For more information, see [Installing the {{site.data.keyword.Bluemix_notm}} CLI](/docs/cli/index.html#overview).
+Install the {{site.data.keyword.Bluemix_notm}} CLI. For more information, see [Installing the {{site.data.keyword.Bluemix_notm}} CLI](/docs/cli?topic=cloud-cli-ibmcloud-cli#overview).
 
 
 

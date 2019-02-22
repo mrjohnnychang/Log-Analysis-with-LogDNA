@@ -276,7 +276,7 @@ The following table lists the policies that a user must have to be able to confi
 | `IBM Log Analysis with LogDNA` | Service role: Manager      | Allows the user to launch the Web UI and view logs in the Web UI.                             |
 {: caption="Table 2. IAM policies" caption-side="top"} 
 
-For more information on how to configure these policies for a user, see [Granting permissions to a user to view logs in LogDNA](/docs/services/Log-Analysis-with-LogDNA/work_iam.html#user_logdna).
+For more information on how to configure these policies for a user, see [Granting permissions to a user to view logs in LogDNA](/docs/services/Log-Analysis-with-LogDNA?topic=LogDNA-work_iam#user_logdna).
 
 Complete the following steps to assign a user permissions to archive logs: 
 
@@ -303,7 +303,7 @@ Complete the following steps to assign a user permissions to archive logs:
 
 Complete the following steps to configure archiving of your IBM Log Analysis with LogDNA instance into a COS bucket:
 
-1. Launch the IBM Log Analysis with LogDNA web UI. For more information, see [Launching the IBM Log Analysis with LogDNA Web UI](/docs/services/Log-Analysis-with-LogDNA/view_logs.html#view_logs_step2).
+1. Launch the IBM Log Analysis with LogDNA web UI. For more information, see [Launching the IBM Log Analysis with LogDNA Web UI](/docs/services/Log-Analysis-with-LogDNA?topic=LogDNA-view_logs#view_logs_step2).
 
 2. Select the **Configuration** icon. Then select **Archiving**. 
 

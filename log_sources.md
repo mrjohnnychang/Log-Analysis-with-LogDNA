@@ -25,12 +25,12 @@ You can configure {{site.data.keyword.Bluemix_notm}} log sources and on-premisse
 ## Platform: Container services
 {: #log_sources_kube}
 
-You can manage logs from the [{{site.data.keyword.containerlong_notm}}](/docs/containers/container_index.html#container_index) with IBM Log Analysis with LogDNA.
+You can manage logs from the [{{site.data.keyword.containerlong_notm}}](/docs/containers?topic=containers-container_index#container_index) with IBM Log Analysis with LogDNA.
 
 | Tutorials: Managing logs for the {{site.data.keyword.containerlong_notm}} |
 |---------------------------------------------------------------------------------------------------|
-| [Managing Kubernetes cluster logs with IBM Log Analysis with LogDNA](/docs/services/Log-Analysis-with-LogDNA/tutorials/kube.html#kube)| 
-| [Resetting the ingestion key used by a Kubernetes cluster to forward logs to an IBM Log Analysis with LogDNA instance](/docs/services/Log-Analysis-with-LogDNA/tutorials/kube_reset_ingestion.html#kube_reset) | 
+| [Managing Kubernetes cluster logs with IBM Log Analysis with LogDNA](/docs/services/Log-Analysis-with-LogDNA/tutorials?topic=LogDNA-kube#kube)| 
+| [Resetting the ingestion key used by a Kubernetes cluster to forward logs to an IBM Log Analysis with LogDNA instance](/docs/services/Log-Analysis-with-LogDNA/tutorials?topic=LogDNA-kube_reset#kube_reset) | 
 {: caption="Kubernetes tutorials" caption-side="top"} 
 
 
@@ -51,7 +51,7 @@ The following table lists tutorials on common tasks:
 
 | Tutorials: Managing logs for an Ubuntu Server |
 |-----------------------------------------------|
-| [Managing Ubuntu logs with IBM Log Analysis with LogDNA](/docs/services/Log-Analysis-with-LogDNA/tutorials/ubuntu.html#ubuntu) | 
+| [Managing Ubuntu logs with IBM Log Analysis with LogDNA](/docs/services/Log-Analysis-with-LogDNA/tutorials?topic=LogDNA-ubuntu#ubuntu) | 
 {: caption="Tutorials for Ubuntu server" caption-side="top"} 
 
 
