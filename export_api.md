@@ -75,7 +75,7 @@ The following table lists the query parameters that you can set:
 |-----------|------------|------------|-------------|
 | `from`      | `int32`      | Required   | Start time. Set as UNIX timestamp in seconds or milliseconds. |
 | `to`        | `int32`      | Required   | End time. Set as UNIX timestamp in seconds or milliseconds.    |
-| `size`      | `string`     | Optional   | Number of log lines to include in the export.  | 
+| `size`      | `string`     | Optional   | Number of log lines to include in the export. The default is 5000 lines  | 
 | `hosts`     | `string`     | Optional   | Comma-separated list of hosts. |
 | `apps`      | `string`     | Optional   | Comma-separated list of applications. |
 | `levels`    | `string`     | Optional   | Comma-separated list of log levels. |
